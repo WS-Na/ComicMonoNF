@@ -5,7 +5,7 @@ ComicMono + Nerd Font + 行楷(简)
 Download
 --------
 - [ComicMonoNF 15.04.52.ttf](https://github.com/WS-Na/ComicMonoNF/raw/jianti/ComicMonoNF%2015.04.52.ttf)
-- [ComicMonoNF-Bold 15.04.52.ttf][https://github.com/WS-Na/ComicMonoNF/raw/jianti/ComicMonoNF-Bold%2015.04.52.ttfhttps://github.com/WS-Na/ComicMonoNF/raw/jianti/ComicMonoNF-Bold%2015.04.52.ttf]
+- [ComicMonoNF-Bold 15.04.52.ttf](https://github.com/WS-Na/ComicMonoNF/raw/jianti/ComicMonoNF-Bold%2015.04.52.ttf)
 
 License
 -------
