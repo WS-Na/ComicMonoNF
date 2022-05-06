@@ -1,7 +1,6 @@
-ComicMono Nerd Font
+ComicMono + Nerd Font + 行楷(简)
 ===================
-This font is a patched Nerd Font version of [Comic Mono][1] which is in turn a
-fork of [Comic Shanns][2].
+在ComicMono添加了Nerd Font 的基础上 , 添加了行楷(简)[2].
 
 Download
 --------
